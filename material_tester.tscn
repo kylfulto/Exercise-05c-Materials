@@ -226,7 +226,7 @@ environment = ExtResource( 2 )
 [node name="White Plastic" parent="Testers" instance=ExtResource( 3 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -36, 0, 0 )
 
-[node name="GodotBall" type="MeshInstance" parent="Testers/White Plastic"]
+[node name="GodotBall1" type="MeshInstance" parent="Testers/White Plastic"]
 transform = Transform( 0.8, 0, 0, 0, 0.8, 0, 0, 0, 0.8, 0, 0.5, -4 )
 mesh = ExtResource( 4 )
 material/0 = SubResource( 4 )
